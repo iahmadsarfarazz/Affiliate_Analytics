@@ -38,9 +38,9 @@ Step-by-step funnel (Impressions → Clicks → Landing Visits → Configurator 
 
 ## 📸 Screenshots
 
-![Executive Overview](<img width="612" height="337" alt="image" src="https://github.com/user-attachments/assets/af0dad6c-ecbe-4a2e-82bd-f14a46318195" />)
-![Affiliate Performance](<img width="626" height="344" alt="image" src="https://github.com/user-attachments/assets/6db3b3f0-beff-4d0b-b7c6-496b89b15957" />)
-![Acquisition Funnel](<img width="597" height="338" alt="image" src="https://github.com/user-attachments/assets/fe377808-57f5-4c48-8e5a-4f94da6e3f1f" />)
+![Executive Overview](<img width="612" height="337" alt="executive_overview png" src="https://github.com/user-attachments/assets/224f1705-7fee-483e-bb28-b38ab77d5ffa" /> )
+![Affiliate Performance](<img width="626" height="344" alt="affiliate_performance png" src="https://github.com/user-attachments/assets/5ae8aba6-0e3b-4859-ad19-735c38d73b0d" /> )
+![Acquisition Funnel](<img width="597" height="338" alt="acquisition_funnel png" src="https://github.com/user-attachments/assets/c145a0a1-459c-4b9b-8e43-876c332d9ba5" /> )
 
 
 - `Tangem__Market_analytics.pbix` — full Power BI file
